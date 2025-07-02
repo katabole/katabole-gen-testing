@@ -1,6 +1,12 @@
 package main
-import "github.com/katabole/kbexample/config"
+
+import "github.com/katabole/kbexample"
 
 func main() {
-	println("Welcome to KBExample")
+	// Title placeholder
+	println("KBExample")
+	// Raw repo-name placeholder
+	println("kbexample")
+	// Underscored repo-name placeholder
+	println("kb_example")
 }
